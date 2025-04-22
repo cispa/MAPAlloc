@@ -1,7 +1,7 @@
 # MAPAlloc
 
 This repository contains the reference implementation for MAPAlloc, a framework for prototyping memory-allocation based attacks and defenses on Linux. For technical information, please refer to the paper _'Taming the Linux Memory Allocator for Rapid
-Prototyping'_ by Zhang, Hornetz, and Schwarz.
+Prototyping'_ by Zhang, Hornetz, Gerlach, and Schwarz.
 
 ## Structure of this Repository
 This repository consists of the following components:
